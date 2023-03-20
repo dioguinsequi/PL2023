@@ -90,16 +90,6 @@ def levantar():
 
 
 
-
-
-
-
-
-
-
-
-
-
 def main():
     ativo = 0
     while True:
@@ -116,9 +106,6 @@ def main():
                 print("maq:ja esta pousado")
             ativo = 0
             break
-
-            #pousar()
-
 
 
 if __name__ == "__main__":
