@@ -37,7 +37,7 @@ def t_error(t):
 
 lexer = lex.lex()
 
-arquivo = open('exemplo1.txt', 'r')
+arquivo = open('nomeficheiro.txt', 'r')
 conteudo = arquivo.read()
 arquivo.close()
 
